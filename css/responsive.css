@@ -1,0 +1,10 @@
+@media (max-width: 799px) {
+  .title {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+  }
+  .title h1{
+    font-size:10px;
+  }
+}
